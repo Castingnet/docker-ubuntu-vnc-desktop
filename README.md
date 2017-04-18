@@ -3,12 +3,12 @@ docker-ubuntu-vnc-desktop
 
 Copied from doruwu's repository and do some update based on personal requirement
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/dorowu/ubuntu-desktop-lxde-vnc.svg)](https://hub.docker.com/r/castingnet/ubuntu-desktop-lxde-vnc/)
-[![Docker Stars](https://img.shields.io/docker/stars/dorowu/ubuntu-desktop-lxde-vnc.svg)](https://hub.docker.com/r/castingnet/ubuntu-desktop-lxde-vnc/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/castingnet/ubuntu-desktop-lxde-vnc.svg)](https://hub.docker.com/r/castingnet/ubuntu-desktop-lxde-vnc/)
+[![Docker Stars](https://img.shields.io/docker/stars/castingnet/ubuntu-desktop-lxde-vnc.svg)](https://hub.docker.com/r/castingnet/ubuntu-desktop-lxde-vnc/)
 
 From Docker Index
 ```
-docker pull dorowu/ubuntu-desktop-lxde-vnc
+docker pull castingnet/ubuntu-desktop-lxde-vnc
 ```
 
 Build yourself
